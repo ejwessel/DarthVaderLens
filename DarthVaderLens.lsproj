@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586014725338",
+    "lastChanged": "1586015654715",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -93,13 +93,71 @@
                     [
                         "vader",
                         "vader"
+                    ],
+                    [
+                        "vader 2",
+                        "Animations"
+                    ],
+                    [
+                        "vader 2",
+                        "Materials",
+                        "Color_M05"
+                    ],
+                    [
+                        "vader 2",
+                        "Materials",
+                        "Color_M08"
+                    ],
+                    [
+                        "vader 2",
+                        "Materials",
+                        "Color_M09"
+                    ],
+                    [
+                        "vader 2",
+                        "Materials",
+                        "_4"
+                    ],
+                    [
+                        "vader 2",
+                        "Meshes"
+                    ],
+                    [
+                        "vader 2",
+                        "Meshes",
+                        "buffer-0-mesh-0"
+                    ],
+                    [
+                        "vader 2",
+                        "Meshes",
+                        "buffer-0-mesh-0 2"
+                    ],
+                    [
+                        "vader 2",
+                        "Meshes",
+                        "buffer-0-mesh-0 3"
+                    ],
+                    [
+                        "vader 2",
+                        "Meshes",
+                        "buffer-0-mesh-0 4"
+                    ],
+                    [
+                        "vader 2",
+                        "vader"
                     ]
                 ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1586014213617828:2195",
+                    "1586014213618990:2213",
+                    "1586014854846927:7658",
+                    "1586014854847382:7660",
+                    "1586014854847773:7662"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
@@ -255,6 +313,78 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1586014853682470:7336",
+                    "name": "Files\/File18.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1586014853712694:7350",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1586014853738158:7364",
+                    "name": "Files\/File20.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1586014853765798:7378",
+                    "name": "Files\/File21.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1586014853777825:7388",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1586014853935527:7403",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1586014854085278:7418",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1586014854257892:7433",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1586014854439401:7554",
+                    "name": "GltfImport_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -289,7 +419,14 @@
                 "8": "1586014213623662:2266",
                 "9": "1586014224223401:2691",
                 "10": "1586014224223582:2692",
-                "11": "1586014224227201:2712"
+                "11": "1586014224227201:2712",
+                "12": "1586014854845445:7636",
+                "13": "1586014854846139:7654",
+                "14": "1586014854846532:7656",
+                "15": "1586014854846927:7658",
+                "16": "1586014854847382:7660",
+                "17": "1586014854847773:7662",
+                "18": "1586014854848143:7664"
             }
         },
         "LayerComponent": {
@@ -379,6 +516,66 @@
                 {
                     "k": "17",
                     "v": "Files\/File17.oprfb"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.mesh"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.oprfb"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.gltf"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.oprfb"
                 }
             ]
         },
@@ -422,6 +619,30 @@
                     {
                         "k": "8",
                         "v": "..\/AdditionalFiles\/vader\/Materials\/_4.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "vader 2.gltf"
+                    },
+                    {
+                        "k": "10",
+                        "v": "..\/AdditionalFiles\/vader 2\/Materials"
+                    },
+                    {
+                        "k": "11",
+                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M08.lsmat"
+                    },
+                    {
+                        "k": "12",
+                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M05.lsmat"
+                    },
+                    {
+                        "k": "13",
+                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M09.lsmat"
+                    },
+                    {
+                        "k": "14",
+                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/_4.lsmat"
                     }
                 ],
                 "hashes": [
@@ -452,14 +673,34 @@
                     {
                         "k": "8",
                         "v": "c13ca102a395ce8344c5d0d28d8f2551"
+                    },
+                    {
+                        "k": "9",
+                        "v": "470bdc046043f6a672b3b261f981878c"
+                    },
+                    {
+                        "k": "11",
+                        "v": "05bdf9562b6bf9172871df0a933ee0e7"
+                    },
+                    {
+                        "k": "12",
+                        "v": "402bdffa03d3894d1a1bb9918811b732"
+                    },
+                    {
+                        "k": "13",
+                        "v": "0882d0382379165696eca553bbe239f9"
+                    },
+                    {
+                        "k": "14",
+                        "v": "e22d8c9f837239a861c127a617903179"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-04T11:30:13",
+                        "lastModified": "2020-04-04T11:40:54",
                         "name": "Public",
-                        "hash": "a5d02a4b05445f354e7669e95786079e",
+                        "hash": "e1f13e32055de937710494b1e2fa7bf5",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -480,6 +721,13 @@
                                 "lastModified": "2019-12-10T01:02:40",
                                 "name": "vader.obj",
                                 "hash": "15a5f07e438d7db583b2e628584e4d7d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-02-14T06:42:18",
+                                "name": "vader 2.gltf",
+                                "hash": "470bdc046043f6a672b3b261f981878c",
                                 "children": ""
                             },
                             {
@@ -753,14 +1001,216 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "vader 2",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "9",
+                        "source": "\/Users\/ejwessel\/Downloads\/archive (9)\/vader.gltf",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Color_M05",
+                                    "v": "1586014853935527:7403"
+                                },
+                                {
+                                    "k": "Color_M08",
+                                    "v": "1586014853777825:7388"
+                                },
+                                {
+                                    "k": "Color_M09",
+                                    "v": "1586014854085278:7418"
+                                },
+                                {
+                                    "k": "_4",
+                                    "v": "1586014854257892:7433"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "buffer-0-mesh-0",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "1",
+                                        "uid": "1586014853682470:7336",
+                                        "fileId": "18",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "buffer-0-mesh-0 2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "1",
+                                        "uid": "1586014853712694:7350",
+                                        "fileId": "19",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "buffer-0-mesh-0 3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "1",
+                                        "uid": "1586014853738158:7364",
+                                        "fileId": "20",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "buffer-0-mesh-0 4",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "1",
+                                        "uid": "1586014853765798:7378",
+                                        "fileId": "21",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Color_M08",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "uid": "1586014853777825:7388",
+                                        "fileId": "22",
+                                        "originalId": "23",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color_M05",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "uid": "1586014853935527:7403",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color_M09",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "uid": "1586014854085278:7418",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "13",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "_4",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "uid": "1586014854257892:7433",
+                                        "fileId": "28",
+                                        "originalId": "29",
+                                        "publicId": "14",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vader",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "27",
+                                "dependency": "1",
+                                "uid": "1586014854439401:7554",
+                                "fileId": "30",
+                                "originalId": "32",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1517446348228144:84822"
+                "resources": [
+                    {
+                        "uid": "1586014854085278:7418",
+                        "path_list": [
+                            "vader 2",
+                            "Materials",
+                            "Color_M09"
+                        ]
+                    }
                 ]
             }
         },
@@ -835,6 +1285,75 @@
                                 {
                                     "k": "1586014213019235:2111",
                                     "v": "1586014213623872:2268"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1586014854845445:7636",
+                        "v": {
+                            "prefab": "1586014854439401:7554",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1586014854417639:7448",
+                                    "v": "1586014854845445:7636"
+                                },
+                                {
+                                    "k": "1586014854418324:7450",
+                                    "v": "1586014854846139:7654"
+                                },
+                                {
+                                    "k": "1586014854418825:7452",
+                                    "v": "1586014854846532:7656"
+                                },
+                                {
+                                    "k": "1586014854419247:7454",
+                                    "v": "1586014854846927:7658"
+                                },
+                                {
+                                    "k": "1586014854419658:7456",
+                                    "v": "1586014854847382:7660"
+                                },
+                                {
+                                    "k": "1586014854420078:7458",
+                                    "v": "1586014854847773:7662"
+                                },
+                                {
+                                    "k": "1586014854420526:7460",
+                                    "v": "1586014854848143:7664"
+                                },
+                                {
+                                    "k": "1586014854421031:7462",
+                                    "v": "1586014854848525:7666"
+                                },
+                                {
+                                    "k": "1586014854422017:7474",
+                                    "v": "1586014854849402:7678"
+                                },
+                                {
+                                    "k": "1586014854422738:7477",
+                                    "v": "1586014854850026:7681"
+                                },
+                                {
+                                    "k": "1586014854423416:7480",
+                                    "v": "1586014854850618:7684"
+                                },
+                                {
+                                    "k": "1586014854424259:7483",
+                                    "v": "1586014854853297:7696"
+                                },
+                                {
+                                    "k": "1586014854424756:7485",
+                                    "v": "1586014854865171:7763"
+                                },
+                                {
+                                    "k": "1586014854425220:7487",
+                                    "v": "1586014854853875:7698"
+                                },
+                                {
+                                    "k": "1586014854438399:7552",
+                                    "v": "1586014854866941:7767"
                                 }
                             ]
                         }
@@ -914,6 +1433,148 @@
                                 "Component.RenderMeshVisual"
                             ],
                             "v": "1586014213019235:2111"
+                        }
+                    ]
+                },
+                {
+                    "k": "1586014854439401:7554",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1586014854417639:7448"
+                        },
+                        {
+                            "k": [
+                                "Scenes"
+                            ],
+                            "v": "1586014854418324:7450"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0"
+                            ],
+                            "v": "1586014854418825:7452"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "keyLightNode"
+                            ],
+                            "v": "1586014854438399:7552"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3"
+                            ],
+                            "v": "1586014854419247:7454"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4"
+                            ],
+                            "v": "1586014854419658:7456"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5"
+                            ],
+                            "v": "1586014854420078:7458"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5",
+                                "node-0"
+                            ],
+                            "v": "1586014854420526:7460"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5",
+                                "node-0",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1586014854421031:7462"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5",
+                                "node-0",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1586014854422017:7474"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5",
+                                "node-0",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1586014854422738:7477"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_3",
+                                "sceneObject_4",
+                                "sceneObject_5",
+                                "node-0",
+                                "Component.RenderMeshVisual3"
+                            ],
+                            "v": "1586014854423416:7480"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_7"
+                            ],
+                            "v": "1586014854424259:7483"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_7",
+                                "Component.Camera"
+                            ],
+                            "v": "1586014854425220:7487"
+                        },
+                        {
+                            "k": [
+                                "Scenes",
+                                "scene-0",
+                                "sceneObject_7",
+                                "headLightNode"
+                            ],
+                            "v": "1586014854424756:7485"
                         }
                     ]
                 }
