@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586020694307",
+    "lastChanged": "1586025085900",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -31,6 +31,12 @@
                 [
                     [
                         "Credit Alpha"
+                    ],
+                    [
+                        "Global"
+                    ],
+                    [
+                        "I find your lack of faith disturbing"
                     ],
                     [
                         "If you only knew the power of the dark side"
@@ -321,6 +327,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1586022638301740:121088",
+                    "name": "Files\/File45.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1586025025030666:148503",
+                    "name": "Files\/File48.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -405,7 +427,8 @@
                 "15": "1586015857521207:23119",
                 "16": "1586016850604885:39594",
                 "17": "1586018799318321:54186",
-                "18": "1586020485886770:91492"
+                "18": "1586020485886770:91492",
+                "19": "1586021197372928:109320"
             }
         },
         "LayerComponent": {
@@ -519,6 +542,14 @@
                 {
                     "k": "41",
                     "v": "Files\/File41.mp3"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.js"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.mp3"
                 }
             ]
         },
@@ -582,6 +613,14 @@
                     {
                         "k": "22",
                         "v": "If you only knew the power of the dark side.mp3"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Global.js"
+                    },
+                    {
+                        "k": "27",
+                        "v": "I find your lack of faith disturbing.mp3"
                     }
                 ],
                 "hashes": [
@@ -659,19 +698,39 @@
                     },
                     {
                         "k": "21",
-                        "v": "83e80ea7a3dafc9c40f7085218f55b2c"
+                        "v": "e2aed5651a7dae4d97c7fbdd96207aca"
                     },
                     {
                         "k": "22",
                         "v": "5052e8ef47ffe9338aabbc3eb755ce9f"
+                    },
+                    {
+                        "k": "23",
+                        "v": "323c5e1726af667fb331f8da680ada3b"
+                    },
+                    {
+                        "k": "24",
+                        "v": "97b1821081f27af9b7d754237ee44ccf"
+                    },
+                    {
+                        "k": "25",
+                        "v": "bc007fbe95173b1c277036daafbb97a3"
+                    },
+                    {
+                        "k": "26",
+                        "v": "963b816c351341f92532ede46fe6ba59"
+                    },
+                    {
+                        "k": "27",
+                        "v": "cd5385367634c2e3c189ebf0dc60978e"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-04T13:17:46",
+                        "lastModified": "2020-04-04T14:30:52",
                         "name": "Public",
-                        "hash": "68099ff8cd073f6f1f077ec797f60a0f",
+                        "hash": "824410faa4266b002b36c0248f5df416",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -685,6 +744,13 @@
                                 "lastModified": "2020-04-04T12:39:09",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T14:12:05",
+                                "name": "Global.js",
+                                "hash": "97b1821081f27af9b7d754237ee44ccf",
                                 "children": ""
                             },
                             {
@@ -703,9 +769,16 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T13:13:51",
+                                "lastModified": "2020-04-04T14:28:10",
                                 "name": "Open Mouth.js",
-                                "hash": "83e80ea7a3dafc9c40f7085218f55b2c",
+                                "hash": "e2aed5651a7dae4d97c7fbdd96207aca",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T14:29:59",
+                                "name": "I find your lack of faith disturbing.mp3",
+                                "hash": "cd5385367634c2e3c189ebf0dc60978e",
                                 "children": ""
                             },
                             {
@@ -1065,19 +1138,40 @@
                         "publicId": "22",
                         "source": "\/Users\/ejwessel\/Downloads\/If you only knew the power of the dark side.mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "Global",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "36",
+                        "dependency": "0",
+                        "uid": "1586022638301740:121088",
+                        "fileId": "45",
+                        "originalId": "18446744073709551615",
+                        "publicId": "24",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "I find your lack of faith disturbing",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "39",
+                        "dependency": "0",
+                        "uid": "1586025025030666:148503",
+                        "fileId": "48",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27",
+                        "source": "\/Users\/ejwessel\/Downloads\/Darth Vader _I find your lack of faith disturbing_ - HD1080p - Star Wars Episode 1m47s - 1m49.7s (YnNSnJbjdws) 961 (online-audio-converter.com).mp3",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "-1:-1",
-                        "path_list": [
-                            "vader 2"
-                        ]
-                    }
+                "objects": [
+                    "1586016850604885:39594"
                 ]
             }
         },
