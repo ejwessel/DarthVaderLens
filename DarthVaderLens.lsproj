@@ -1,0 +1,923 @@
+{
+    "lens_id": "",
+    "document_id": "hV81gb2stKEaXMCjilfX",
+    "original_document_id": "hV81gb2stKEaXMCjilfX",
+    "version": "23",
+    "lastChanged": "1586014725338",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "vader"
+                    ],
+                    [
+                        "vader",
+                        "Animations"
+                    ],
+                    [
+                        "vader",
+                        "Materials"
+                    ],
+                    [
+                        "vader",
+                        "Materials",
+                        "Color_M05"
+                    ],
+                    [
+                        "vader",
+                        "Materials",
+                        "Color_M08"
+                    ],
+                    [
+                        "vader",
+                        "Materials",
+                        "Color_M09"
+                    ],
+                    [
+                        "vader",
+                        "Materials",
+                        "_4"
+                    ],
+                    [
+                        "vader",
+                        "Meshes"
+                    ],
+                    [
+                        "vader",
+                        "Meshes",
+                        "darth+vader_(1)_1"
+                    ],
+                    [
+                        "vader",
+                        "Meshes",
+                        "darth+vader_(1)_2"
+                    ],
+                    [
+                        "vader",
+                        "Meshes",
+                        "darth+vader_(1)_3"
+                    ],
+                    [
+                        "vader",
+                        "Meshes",
+                        "darth+vader_(1)_4"
+                    ],
+                    [
+                        "vader",
+                        "vader"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b3ce0946e938fac11a7089dcbb8bf4e3",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Darth Vader",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1586014224223582:2692"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1586014211715219:1910",
+                    "name": "Files\/File3.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1586014211741980:1924",
+                    "name": "Files\/File4.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1586014211764780:1938",
+                    "name": "Files\/File5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1586014211791502:1952",
+                    "name": "Files\/File6.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1586014211802796:1962",
+                    "name": "Files\/File7",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1586014211991584:1977",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1586014212225771:1992",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1586014212530325:2007",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1586014213020837:2123",
+                    "name": "vader",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1586014213617828:2195",
+                "4": "1586014213618990:2213",
+                "5": "1586014213619227:2215",
+                "6": "1586014213621164:2232",
+                "7": "1586014213622556:2249",
+                "8": "1586014213623662:2266",
+                "9": "1586014224223401:2691",
+                "10": "1586014224223582:2692",
+                "11": "1586014224227201:2712"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.mesh"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.mesh"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.mesh"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.mesh"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.lsmat"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.oprfb"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.obj"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "echopark_spec.png"
+                    },
+                    {
+                        "k": "3",
+                        "v": "vader.obj"
+                    },
+                    {
+                        "k": "4",
+                        "v": "..\/AdditionalFiles\/vader\/Materials"
+                    },
+                    {
+                        "k": "5",
+                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M05.lsmat"
+                    },
+                    {
+                        "k": "6",
+                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M08.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M09.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "..\/AdditionalFiles\/vader\/Materials\/_4.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "15a5f07e438d7db583b2e628584e4d7d"
+                    },
+                    {
+                        "k": "5",
+                        "v": "0380f7779f634919cfbc9318996b2b8c"
+                    },
+                    {
+                        "k": "6",
+                        "v": "2fe9b16cfd0dfaa505254271a1833143"
+                    },
+                    {
+                        "k": "7",
+                        "v": "80b1dc21520bf6d99dfdf8dd652083ad"
+                    },
+                    {
+                        "k": "8",
+                        "v": "c13ca102a395ce8344c5d0d28d8f2551"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-04-04T11:30:13",
+                        "name": "Public",
+                        "hash": "a5d02a4b05445f354e7669e95786079e",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:52",
+                                "name": "echopark_diff.png",
+                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:52",
+                                "name": "echopark_spec.png",
+                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-10T01:02:40",
+                                "name": "vader.obj",
+                                "hash": "15a5f07e438d7db583b2e628584e4d7d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-12-13T20:21:47",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "8",
+                        "dependency": "0",
+                        "uid": "1517446348230286:84828",
+                        "fileId": "1",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "9",
+                        "dependency": "0",
+                        "uid": "1517446348234137:84840",
+                        "fileId": "2",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "vader",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "16",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "\/Users\/ejwessel\/Downloads\/archive (8)\/vader.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Color_M05",
+                                    "v": "1586014211802796:1962"
+                                },
+                                {
+                                    "k": "Color_M08",
+                                    "v": "1586014211991584:1977"
+                                },
+                                {
+                                    "k": "Color_M09",
+                                    "v": "1586014212225771:1992"
+                                },
+                                {
+                                    "k": "_4",
+                                    "v": "1586014212530325:2007"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "darth+vader_(1)_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "uid": "1586014211715219:1910",
+                                        "fileId": "3",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "darth+vader_(1)_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "uid": "1586014211741980:1924",
+                                        "fileId": "4",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "darth+vader_(1)_3",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1586014211764780:1938",
+                                        "fileId": "5",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "darth+vader_(1)_4",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "1",
+                                        "uid": "1586014211791502:1952",
+                                        "fileId": "6",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Color_M05",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "uid": "1586014211802796:1962",
+                                        "fileId": "7",
+                                        "originalId": "8",
+                                        "publicId": "5",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color_M08",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "uid": "1586014211991584:1977",
+                                        "fileId": "9",
+                                        "originalId": "10",
+                                        "publicId": "6",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Color_M09",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "uid": "1586014212225771:1992",
+                                        "fileId": "11",
+                                        "originalId": "12",
+                                        "publicId": "7",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "_4",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "uid": "1586014212530325:2007",
+                                        "fileId": "13",
+                                        "originalId": "14",
+                                        "publicId": "8",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vader",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "18",
+                                "dependency": "1",
+                                "uid": "1586014213020837:2123",
+                                "fileId": "15",
+                                "originalId": "17",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1517446348228144:84822"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1586014213617828:2195",
+                        "v": {
+                            "prefab": "1586014213020837:2123",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1586014212721634:2022",
+                                    "v": "1586014213617828:2195"
+                                },
+                                {
+                                    "k": "1586014212726161:2024",
+                                    "v": "1586014213618990:2213"
+                                },
+                                {
+                                    "k": "1586014212726441:2026",
+                                    "v": "1586014213619227:2215"
+                                },
+                                {
+                                    "k": "1586014212726673:2028",
+                                    "v": "1586014213619459:2217"
+                                },
+                                {
+                                    "k": "1586014213017044:2081",
+                                    "v": "1586014213621164:2232"
+                                },
+                                {
+                                    "k": "1586014213017313:2083",
+                                    "v": "1586014213621476:2234"
+                                },
+                                {
+                                    "k": "1586014213018076:2095",
+                                    "v": "1586014213622556:2249"
+                                },
+                                {
+                                    "k": "1586014213018312:2097",
+                                    "v": "1586014213622778:2251"
+                                },
+                                {
+                                    "k": "1586014213019001:2109",
+                                    "v": "1586014213623662:2266"
+                                },
+                                {
+                                    "k": "1586014213019235:2111",
+                                    "v": "1586014213623872:2268"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1586014213020837:2123",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1586014212721634:2022"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)"
+                            ],
+                            "v": "1586014212726161:2024"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_1"
+                            ],
+                            "v": "1586014212726441:2026"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1586014212726673:2028"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_2"
+                            ],
+                            "v": "1586014213017044:2081"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1586014213017313:2083"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_3"
+                            ],
+                            "v": "1586014213018076:2095"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1586014213018312:2097"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_4"
+                            ],
+                            "v": "1586014213019001:2109"
+                        },
+                        {
+                            "k": [
+                                "darth+vader_(1)",
+                                "darth+vader_(1)_4",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1586014213019235:2111"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
