@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586016979119",
+    "lastChanged": "1586020694307",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -33,10 +33,13 @@
                         "Credit Alpha"
                     ],
                     [
-                        "Vader Icon"
+                        "If you only knew the power of the dark side"
                     ],
                     [
-                        "breathing"
+                        "Open Mouth"
+                    ],
+                    [
+                        "Vader Icon"
                     ],
                     [
                         "echopark_diff"
@@ -82,85 +85,29 @@
                     [
                         "vader",
                         "Meshes",
-                        "darth+vader_(1)_1"
-                    ],
-                    [
-                        "vader",
-                        "Meshes",
-                        "darth+vader_(1)_2"
-                    ],
-                    [
-                        "vader",
-                        "Meshes",
-                        "darth+vader_(1)_3"
-                    ],
-                    [
-                        "vader",
-                        "Meshes",
-                        "darth+vader_(1)_4"
-                    ],
-                    [
-                        "vader",
-                        "vader"
-                    ],
-                    [
-                        "vader 2"
-                    ],
-                    [
-                        "vader 2",
-                        "Animations"
-                    ],
-                    [
-                        "vader 2",
-                        "Materials"
-                    ],
-                    [
-                        "vader 2",
-                        "Materials",
-                        "Color_M05"
-                    ],
-                    [
-                        "vader 2",
-                        "Materials",
-                        "Color_M08"
-                    ],
-                    [
-                        "vader 2",
-                        "Materials",
-                        "Color_M09"
-                    ],
-                    [
-                        "vader 2",
-                        "Materials",
-                        "_4"
-                    ],
-                    [
-                        "vader 2",
-                        "Meshes"
-                    ],
-                    [
-                        "vader 2",
-                        "Meshes",
                         "buffer-0-mesh-0"
                     ],
                     [
-                        "vader 2",
+                        "vader",
                         "Meshes",
                         "buffer-0-mesh-0 2"
                     ],
                     [
-                        "vader 2",
+                        "vader",
                         "Meshes",
                         "buffer-0-mesh-0 3"
                     ],
                     [
-                        "vader 2",
+                        "vader",
                         "Meshes",
                         "buffer-0-mesh-0 4"
                     ],
                     [
-                        "vader 2",
+                        "vader",
                         "vader"
+                    ],
+                    [
+                        "vader breathing"
                     ]
                 ]
             ]
@@ -171,6 +118,9 @@
                     "1517446348227994:84813",
                     "1586014213617828:2195",
                     "1586014213618990:2213",
+                    "1586014854845445:7636",
+                    "1586014854846139:7654",
+                    "1586014854846532:7656",
                     "1586014854846927:7658",
                     "1586014854847382:7660",
                     "1586014854847773:7662"
@@ -215,7 +165,8 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1586014224223582:2692"
+                    "1586014224223582:2692",
+                    "1586018317733245:45443"
                 ]
             ]
         },
@@ -258,78 +209,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
-                },
-                {
-                    "resId": "10",
-                    "uid": "1586014211715219:1910",
-                    "name": "Files\/File3.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "11",
-                    "uid": "1586014211741980:1924",
-                    "name": "Files\/File4.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "12",
-                    "uid": "1586014211764780:1938",
-                    "name": "Files\/File5.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "13",
-                    "uid": "1586014211791502:1952",
-                    "name": "Files\/File6.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "14",
-                    "uid": "1586014211802796:1962",
-                    "name": "Files\/File7",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "15",
-                    "uid": "1586014211991584:1977",
-                    "name": "Files\/File9",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "16",
-                    "uid": "1586014212225771:1992",
-                    "name": "Files\/File11",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "17",
-                    "uid": "1586014212530325:2007",
-                    "name": "Files\/File13",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "18",
-                    "uid": "1586014213020837:2123",
-                    "name": "vader",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
                 },
                 {
                     "resId": "19",
@@ -426,6 +305,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1586018686563936:52208",
+                    "name": "Files\/File40.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1586018751669993:53497",
+                    "name": "Files\/File41.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -444,7 +339,35 @@
                 "ScreenTransform": {
                     "uidData": [
                         {
+                            "k": "1586015857489751:22986",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
                             "k": "1586015857521366:23120",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586020485912204:91752",
                             "v": {
                                 "isBasicMode": "true",
                                 "basicModeSetup": {
@@ -467,26 +390,22 @@
                 "0": "1517446348227994:84813",
                 "1": "1517446348228144:84822",
                 "2": "1528843813151434:5126",
-                "3": "1586014213617828:2195",
-                "4": "1586014213618990:2213",
-                "5": "1586014213619227:2215",
-                "6": "1586014213621164:2232",
-                "7": "1586014213622556:2249",
-                "8": "1586014213623662:2266",
-                "9": "1586014224223401:2691",
-                "10": "1586014224223582:2692",
-                "11": "1586014224227201:2712",
-                "12": "1586014854845445:7636",
-                "13": "1586014854846139:7654",
-                "14": "1586014854846532:7656",
-                "15": "1586014854846927:7658",
-                "16": "1586014854847382:7660",
-                "17": "1586014854847773:7662",
-                "18": "1586014854848143:7664",
-                "19": "1586015857474466:22919",
-                "20": "1586015857488856:22984",
-                "21": "1586015857521207:23119",
-                "22": "1586016850604885:39594"
+                "3": "1586014224223401:2691",
+                "4": "1586014224223582:2692",
+                "5": "1586014224227201:2712",
+                "6": "1586014854845445:7636",
+                "7": "1586014854846139:7654",
+                "8": "1586014854846532:7656",
+                "9": "1586014854846927:7658",
+                "10": "1586014854847382:7660",
+                "11": "1586014854847773:7662",
+                "12": "1586014854848143:7664",
+                "13": "1586015857474466:22919",
+                "14": "1586015857488856:22984",
+                "15": "1586015857521207:23119",
+                "16": "1586016850604885:39594",
+                "17": "1586018799318321:54186",
+                "18": "1586020485886770:91492"
             }
         },
         "LayerComponent": {
@@ -516,66 +435,6 @@
                 {
                     "k": "2",
                     "v": "Files\/File2.png"
-                },
-                {
-                    "k": "3",
-                    "v": "Files\/File3.mesh"
-                },
-                {
-                    "k": "4",
-                    "v": "Files\/File4.mesh"
-                },
-                {
-                    "k": "5",
-                    "v": "Files\/File5.mesh"
-                },
-                {
-                    "k": "6",
-                    "v": "Files\/File6.mesh"
-                },
-                {
-                    "k": "7",
-                    "v": "Files\/File7"
-                },
-                {
-                    "k": "8",
-                    "v": "Files\/File8.lsmat"
-                },
-                {
-                    "k": "9",
-                    "v": "Files\/File9"
-                },
-                {
-                    "k": "10",
-                    "v": "Files\/File10.lsmat"
-                },
-                {
-                    "k": "11",
-                    "v": "Files\/File11"
-                },
-                {
-                    "k": "12",
-                    "v": "Files\/File12.lsmat"
-                },
-                {
-                    "k": "13",
-                    "v": "Files\/File13"
-                },
-                {
-                    "k": "14",
-                    "v": "Files\/File14.lsmat"
-                },
-                {
-                    "k": "15",
-                    "v": "Files\/File15.oprfb"
-                },
-                {
-                    "k": "16",
-                    "v": "Files\/File16.obj"
-                },
-                {
-                    "k": "17",
-                    "v": "Files\/File17.oprfb"
                 },
                 {
                     "k": "18",
@@ -652,6 +511,14 @@
                 {
                     "k": "39",
                     "v": "Files\/File39.mp3"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.js"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.mp3"
                 }
             ]
         },
@@ -673,32 +540,8 @@
                         "v": "echopark_spec.png"
                     },
                     {
-                        "k": "3",
-                        "v": "vader.obj"
-                    },
-                    {
-                        "k": "4",
-                        "v": "..\/AdditionalFiles\/vader\/Materials"
-                    },
-                    {
-                        "k": "5",
-                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M05.lsmat"
-                    },
-                    {
-                        "k": "6",
-                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M08.lsmat"
-                    },
-                    {
-                        "k": "7",
-                        "v": "..\/AdditionalFiles\/vader\/Materials\/Color_M09.lsmat"
-                    },
-                    {
-                        "k": "8",
-                        "v": "..\/AdditionalFiles\/vader\/Materials\/_4.lsmat"
-                    },
-                    {
                         "k": "9",
-                        "v": "vader 2.gltf"
+                        "v": "vader.gltf"
                     },
                     {
                         "k": "10",
@@ -730,7 +573,15 @@
                     },
                     {
                         "k": "19",
-                        "v": "breathing.mp3"
+                        "v": "vader breathing.mp3"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Open Mouth.js"
+                    },
+                    {
+                        "k": "22",
+                        "v": "If you only knew the power of the dark side.mp3"
                     }
                 ],
                 "hashes": [
@@ -768,19 +619,19 @@
                     },
                     {
                         "k": "11",
-                        "v": "05bdf9562b6bf9172871df0a933ee0e7"
+                        "v": "a368b5d9fc8c670bd30567639eb2ed20"
                     },
                     {
                         "k": "12",
-                        "v": "402bdffa03d3894d1a1bb9918811b732"
+                        "v": "cf6ae5cfc421be4d2cc562d164a0969b"
                     },
                     {
                         "k": "13",
-                        "v": "0882d0382379165696eca553bbe239f9"
+                        "v": "457a200bd4b427bb2967e3a564e4fd8f"
                     },
                     {
                         "k": "14",
-                        "v": "e22d8c9f837239a861c127a617903179"
+                        "v": "6ec51fc2b2bf9e44b6bb93a7e9d6d1d7"
                     },
                     {
                         "k": "15",
@@ -801,67 +652,86 @@
                     {
                         "k": "19",
                         "v": "b3855d293f216cbd24d3e02d5c63300f"
+                    },
+                    {
+                        "k": "20",
+                        "v": "b3855d293f216cbd24d3e02d5c63300f"
+                    },
+                    {
+                        "k": "21",
+                        "v": "83e80ea7a3dafc9c40f7085218f55b2c"
+                    },
+                    {
+                        "k": "22",
+                        "v": "5052e8ef47ffe9338aabbc3eb755ce9f"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-04T12:16:08",
+                        "lastModified": "2020-04-04T13:17:46",
                         "name": "Public",
-                        "hash": "13022f95f81ffd54858b6c7db08b3df9",
+                        "hash": "68099ff8cd073f6f1f077ec797f60a0f",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:15:44",
-                                "name": "breathing.mp3",
-                                "hash": "b3855d293f216cbd24d3e02d5c63300f",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-04-04T12:39:09",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-04-04T12:39:09",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-10T01:02:40",
-                                "name": "vader.obj",
-                                "hash": "15a5f07e438d7db583b2e628584e4d7d",
+                                "lastModified": "2020-04-04T19:37:22",
+                                "name": "If you only knew the power of the dark side.mp3",
+                                "hash": "5052e8ef47ffe9338aabbc3eb755ce9f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T11:53:59",
+                                "lastModified": "2020-04-04T12:39:09",
                                 "name": "Vader Icon.png",
                                 "hash": "438994d1388bcaeef04a47284b6c6bce",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-02-14T06:42:18",
-                                "name": "vader 2.gltf",
+                                "lastModified": "2020-04-04T13:13:51",
+                                "name": "Open Mouth.js",
+                                "hash": "83e80ea7a3dafc9c40f7085218f55b2c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T12:39:09",
+                                "name": "vader.gltf",
                                 "hash": "470bdc046043f6a672b3b261f981878c",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T11:56:59",
+                                "lastModified": "2020-04-04T12:15:44",
+                                "name": "vader breathing.mp3",
+                                "hash": "b3855d293f216cbd24d3e02d5c63300f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T12:39:09",
                                 "name": "Credit Alpha.js",
                                 "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:47",
+                                "lastModified": "2020-04-04T12:39:09",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -938,201 +808,6 @@
                     },
                     {
                         "name": "vader",
-                        "type": "18",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "2",
-                        "uid": "-1:-1",
-                        "fileId": "16",
-                        "originalId": "18446744073709551615",
-                        "publicId": "3",
-                        "source": "\/Users\/ejwessel\/Downloads\/archive (8)\/vader.obj",
-                        "additional": {
-                            "materialMapping": [
-                                {
-                                    "k": "Color_M05",
-                                    "v": "1586014211802796:1962"
-                                },
-                                {
-                                    "k": "Color_M08",
-                                    "v": "1586014211991584:1977"
-                                },
-                                {
-                                    "k": "Color_M09",
-                                    "v": "1586014212225771:1992"
-                                },
-                                {
-                                    "k": "_4",
-                                    "v": "1586014212530325:2007"
-                                }
-                            ]
-                        },
-                        "resources": [
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "darth+vader_(1)_1",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "10",
-                                        "dependency": "1",
-                                        "uid": "1586014211715219:1910",
-                                        "fileId": "3",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "darth+vader_(1)_2",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "11",
-                                        "dependency": "1",
-                                        "uid": "1586014211741980:1924",
-                                        "fileId": "4",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "darth+vader_(1)_3",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "12",
-                                        "dependency": "1",
-                                        "uid": "1586014211764780:1938",
-                                        "fileId": "5",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "darth+vader_(1)_4",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "13",
-                                        "dependency": "1",
-                                        "uid": "1586014211791502:1952",
-                                        "fileId": "6",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Animations",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "1",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": "",
-                                "resources": ""
-                            },
-                            {
-                                "name": "Materials",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "4",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Color_M05",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "14",
-                                        "dependency": "0",
-                                        "uid": "1586014211802796:1962",
-                                        "fileId": "7",
-                                        "originalId": "8",
-                                        "publicId": "5",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Color_M08",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "15",
-                                        "dependency": "0",
-                                        "uid": "1586014211991584:1977",
-                                        "fileId": "9",
-                                        "originalId": "10",
-                                        "publicId": "6",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Color_M09",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "16",
-                                        "dependency": "0",
-                                        "uid": "1586014212225771:1992",
-                                        "fileId": "11",
-                                        "originalId": "12",
-                                        "publicId": "7",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "_4",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "17",
-                                        "dependency": "0",
-                                        "uid": "1586014212530325:2007",
-                                        "fileId": "13",
-                                        "originalId": "14",
-                                        "publicId": "8",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "vader",
-                                "type": "12",
-                                "subtype": "-1",
-                                "resourceId": "18",
-                                "dependency": "1",
-                                "uid": "1586014213020837:2123",
-                                "fileId": "15",
-                                "originalId": "17",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "vader 2",
                         "type": "18",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -1353,7 +1028,7 @@
                         "additional": ""
                     },
                     {
-                        "name": "breathing",
+                        "name": "vader breathing",
                         "type": "5",
                         "subtype": "0",
                         "resourceId": "32",
@@ -1364,14 +1039,45 @@
                         "publicId": "19",
                         "source": "\/Users\/ejwessel\/Downloads\/breathing.mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "Open Mouth",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "33",
+                        "dependency": "0",
+                        "uid": "1586018686563936:52208",
+                        "fileId": "40",
+                        "originalId": "18446744073709551615",
+                        "publicId": "21",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "If you only knew the power of the dark side",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "34",
+                        "dependency": "0",
+                        "uid": "1586018751669993:53497",
+                        "fileId": "41",
+                        "originalId": "18446744073709551615",
+                        "publicId": "22",
+                        "source": "\/Users\/ejwessel\/Downloads\/If you only knew the power of the dark side.mp3",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1586016850604885:39594"
+                "resources": [
+                    {
+                        "uid": "-1:-1",
+                        "path_list": [
+                            "vader 2"
+                        ]
+                    }
                 ]
             }
         },
@@ -1401,55 +1107,6 @@
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": [
-                    {
-                        "k": "1586014213617828:2195",
-                        "v": {
-                            "prefab": "1586014213020837:2123",
-                            "isActive": "true",
-                            "mapping": [
-                                {
-                                    "k": "1586014212721634:2022",
-                                    "v": "1586014213617828:2195"
-                                },
-                                {
-                                    "k": "1586014212726161:2024",
-                                    "v": "1586014213618990:2213"
-                                },
-                                {
-                                    "k": "1586014212726441:2026",
-                                    "v": "1586014213619227:2215"
-                                },
-                                {
-                                    "k": "1586014212726673:2028",
-                                    "v": "1586014213619459:2217"
-                                },
-                                {
-                                    "k": "1586014213017044:2081",
-                                    "v": "1586014213621164:2232"
-                                },
-                                {
-                                    "k": "1586014213017313:2083",
-                                    "v": "1586014213621476:2234"
-                                },
-                                {
-                                    "k": "1586014213018076:2095",
-                                    "v": "1586014213622556:2249"
-                                },
-                                {
-                                    "k": "1586014213018312:2097",
-                                    "v": "1586014213622778:2251"
-                                },
-                                {
-                                    "k": "1586014213019001:2109",
-                                    "v": "1586014213623662:2266"
-                                },
-                                {
-                                    "k": "1586014213019235:2111",
-                                    "v": "1586014213623872:2268"
-                                }
-                            ]
-                        }
-                    },
                     {
                         "k": "1586014854845445:7636",
                         "v": {
@@ -1522,81 +1179,6 @@
                 ]
             },
             "importInfo": [
-                {
-                    "k": "1586014213020837:2123",
-                    "v": [
-                        {
-                            "k": "",
-                            "v": "1586014212721634:2022"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)"
-                            ],
-                            "v": "1586014212726161:2024"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_1"
-                            ],
-                            "v": "1586014212726441:2026"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_1",
-                                "Component.RenderMeshVisual"
-                            ],
-                            "v": "1586014212726673:2028"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_2"
-                            ],
-                            "v": "1586014213017044:2081"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_2",
-                                "Component.RenderMeshVisual"
-                            ],
-                            "v": "1586014213017313:2083"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_3"
-                            ],
-                            "v": "1586014213018076:2095"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_3",
-                                "Component.RenderMeshVisual"
-                            ],
-                            "v": "1586014213018312:2097"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_4"
-                            ],
-                            "v": "1586014213019001:2109"
-                        },
-                        {
-                            "k": [
-                                "darth+vader_(1)",
-                                "darth+vader_(1)_4",
-                                "Component.RenderMeshVisual"
-                            ],
-                            "v": "1586014213019235:2111"
-                        }
-                    ]
-                },
                 {
                     "k": "1586014854439401:7554",
                     "v": [
