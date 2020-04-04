@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "e9a81d45-57ca-4187-b660-9408f1b08887",
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586015654715",
+    "lastChanged": "1586016979119",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -29,6 +29,15 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Credit Alpha"
+                    ],
+                    [
+                        "Vader Icon"
+                    ],
+                    [
+                        "breathing"
+                    ],
                     [
                         "echopark_diff"
                     ],
@@ -95,8 +104,15 @@
                         "vader"
                     ],
                     [
+                        "vader 2"
+                    ],
+                    [
                         "vader 2",
                         "Animations"
+                    ],
+                    [
+                        "vader 2",
+                        "Materials"
                     ],
                     [
                         "vader 2",
@@ -152,6 +168,7 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
+                    "1517446348227994:84813",
                     "1586014213617828:2195",
                     "1586014213618990:2213",
                     "1586014854846927:7658",
@@ -161,7 +178,7 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "b3ce0946e938fac11a7089dcbb8bf4e3",
+            "icon_hash": "237a4a6b08f9c3cbeef81d9ac8e56eac",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
@@ -385,6 +402,30 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1586015682718047:20175",
+                    "name": "Files\/File33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1586015815289452:22149",
+                    "name": "Files\/File37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1586016968390977:41892",
+                    "name": "Files\/File39.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -401,7 +442,22 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1586015857521366:23120",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -426,12 +482,16 @@
                 "15": "1586014854846927:7658",
                 "16": "1586014854847382:7660",
                 "17": "1586014854847773:7662",
-                "18": "1586014854848143:7664"
+                "18": "1586014854848143:7664",
+                "19": "1586015857474466:22919",
+                "20": "1586015857488856:22984",
+                "21": "1586015857521207:23119",
+                "22": "1586016850604885:39594"
             }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -576,6 +636,22 @@
                 {
                     "k": "32",
                     "v": "Files\/File32.oprfb"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.js"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mp3"
                 }
             ]
         },
@@ -643,6 +719,18 @@
                     {
                         "k": "14",
                         "v": "..\/AdditionalFiles\/vader 2\/Materials\/_4.lsmat"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Vader Icon.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Credit Alpha.js"
+                    },
+                    {
+                        "k": "19",
+                        "v": "breathing.mp3"
                     }
                 ],
                 "hashes": [
@@ -693,15 +781,42 @@
                     {
                         "k": "14",
                         "v": "e22d8c9f837239a861c127a617903179"
+                    },
+                    {
+                        "k": "15",
+                        "v": "438994d1388bcaeef04a47284b6c6bce"
+                    },
+                    {
+                        "k": "16",
+                        "v": "c09bae2f213ee3f11e51f76faee00f9a"
+                    },
+                    {
+                        "k": "17",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
+                    },
+                    {
+                        "k": "18",
+                        "v": "9a0417a8a65ac32ff4658fdb1c52958b"
+                    },
+                    {
+                        "k": "19",
+                        "v": "b3855d293f216cbd24d3e02d5c63300f"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-04T11:40:54",
+                        "lastModified": "2020-04-04T12:16:08",
                         "name": "Public",
-                        "hash": "e1f13e32055de937710494b1e2fa7bf5",
+                        "hash": "13022f95f81ffd54858b6c7db08b3df9",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T12:15:44",
+                                "name": "breathing.mp3",
+                                "hash": "b3855d293f216cbd24d3e02d5c63300f",
+                                "children": ""
+                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2019-12-13T20:21:52",
@@ -725,9 +840,23 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-04-04T11:53:59",
+                                "name": "Vader Icon.png",
+                                "hash": "438994d1388bcaeef04a47284b6c6bce",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-02-14T06:42:18",
                                 "name": "vader 2.gltf",
                                 "hash": "470bdc046043f6a672b3b261f981878c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-04T11:56:59",
+                                "name": "Credit Alpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -1196,21 +1325,53 @@
                                 "additional": ""
                             }
                         ]
+                    },
+                    {
+                        "name": "Vader Icon",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "uid": "1586015682718047:20175",
+                        "fileId": "33",
+                        "originalId": "34",
+                        "publicId": "15",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-04-04 at 11.53.53 AM.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Credit Alpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "30",
+                        "dependency": "0",
+                        "uid": "1586015815289452:22149",
+                        "fileId": "37",
+                        "originalId": "18446744073709551615",
+                        "publicId": "17",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "breathing",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "32",
+                        "dependency": "0",
+                        "uid": "1586016968390977:41892",
+                        "fileId": "39",
+                        "originalId": "18446744073709551615",
+                        "publicId": "19",
+                        "source": "\/Users\/ejwessel\/Downloads\/breathing.mp3",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1586014854085278:7418",
-                        "path_list": [
-                            "vader 2",
-                            "Materials",
-                            "Color_M09"
-                        ]
-                    }
+                "objects": [
+                    "1586016850604885:39594"
                 ]
             }
         },
