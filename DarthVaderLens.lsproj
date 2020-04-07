@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586229917956",
+    "lastChanged": "1586232335237",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -40,6 +40,9 @@
                     ],
                     [
                         "If you only knew the power of the dark side"
+                    ],
+                    [
+                        "Instructions Alpha"
                     ],
                     [
                         "Tap Button"
@@ -330,6 +333,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1586230559738314:59273",
+                    "name": "Files\/File52.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -575,6 +586,10 @@
                 {
                     "k": "51",
                     "v": "Files\/File51.js"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.js"
                 }
             ]
         },
@@ -650,6 +665,10 @@
                     {
                         "k": "17",
                         "v": "Tap Button.js"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Instructions Alpha.js"
                     }
                 ],
                 "hashes": [
@@ -716,15 +735,26 @@
                     {
                         "k": "17",
                         "v": "eb97ebcfc02eb1d5832d7b3e401586b5"
+                    },
+                    {
+                        "k": "18",
+                        "v": "0df8d5a736980f7410460ff042d76102"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-06T23:10:00",
+                        "lastModified": "2020-04-07T00:04:03",
                         "name": "Public",
-                        "hash": "bb8fca91e7d62144d3968c989f2a224c",
+                        "hash": "c2abcb4011e4c34943ed8afeb1ef91f9",
                         "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-07T00:04:03",
+                                "name": "Instructions Alpha.js",
+                                "hash": "0df8d5a736980f7410460ff042d76102",
+                                "children": ""
+                            },
                             {
                                 "isFolder": "false",
                                 "lastModified": "2020-04-06T21:26:05",
@@ -790,7 +820,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-06T21:26:05",
+                                "lastModified": "2020-04-06T23:33:21",
                                 "name": "Credit Alpha.js",
                                 "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
@@ -1176,6 +1206,19 @@
                         "originalId": "18446744073709551615",
                         "publicId": "17",
                         "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TmiNEE\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Instructions Alpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "42",
+                        "dependency": "0",
+                        "uid": "1586230559738314:59273",
+                        "fileId": "52",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18",
+                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
                 ]
