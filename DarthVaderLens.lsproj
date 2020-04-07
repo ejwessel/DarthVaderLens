@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586025751665",
+    "lastChanged": "1586229917956",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -42,10 +42,13 @@
                         "If you only knew the power of the dark side"
                     ],
                     [
-                        "Open Mouth"
+                        "Tap Button"
                     ],
                     [
                         "Vader Icon"
+                    ],
+                    [
+                        "button"
                     ],
                     [
                         "echopark_diff"
@@ -59,30 +62,6 @@
                     [
                         "vader",
                         "Animations"
-                    ],
-                    [
-                        "vader",
-                        "Materials"
-                    ],
-                    [
-                        "vader",
-                        "Materials",
-                        "Color_M05"
-                    ],
-                    [
-                        "vader",
-                        "Materials",
-                        "Color_M08"
-                    ],
-                    [
-                        "vader",
-                        "Materials",
-                        "Color_M09"
-                    ],
-                    [
-                        "vader",
-                        "Materials",
-                        "_4"
                     ],
                     [
                         "vader",
@@ -313,14 +292,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "33",
-                    "uid": "1586018686563936:52208",
-                    "name": "Files\/File40.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "34",
                     "uid": "1586018751669993:53497",
                     "name": "Files\/File41.mp3",
@@ -340,6 +311,22 @@
                     "resId": "39",
                     "uid": "1586025025030666:148503",
                     "name": "Files\/File48.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1586222785702489:4833",
+                    "name": "Files\/File49.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1586222890018496:12143",
+                    "name": "Files\/File51.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -401,6 +388,34 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1586222795892618:5928",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586223316362377:24674",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -428,7 +443,9 @@
                 "16": "1586016850604885:39594",
                 "17": "1586018799318321:54186",
                 "18": "1586020485886770:91492",
-                "19": "1586021197372928:109320"
+                "19": "1586021197372928:109320",
+                "20": "1586222795892275:5927",
+                "21": "1586223316230160:24414"
             }
         },
         "LayerComponent": {
@@ -536,10 +553,6 @@
                     "v": "Files\/File39.mp3"
                 },
                 {
-                    "k": "40",
-                    "v": "Files\/File40.js"
-                },
-                {
                     "k": "41",
                     "v": "Files\/File41.mp3"
                 },
@@ -550,6 +563,18 @@
                 {
                     "k": "48",
                     "v": "Files\/File48.mp3"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.png"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.js"
                 }
             ]
         },
@@ -571,56 +596,60 @@
                         "v": "echopark_spec.png"
                     },
                     {
-                        "k": "9",
+                        "k": "3",
                         "v": "vader.gltf"
                     },
                     {
-                        "k": "10",
-                        "v": "..\/AdditionalFiles\/vader 2\/Materials"
+                        "k": "4",
+                        "v": "..\/AdditionalFiles\/vader\/Materials3"
                     },
                     {
-                        "k": "11",
-                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M08.lsmat"
+                        "k": "5",
+                        "v": "..\/AdditionalFiles\/vader\/Materials3\/Color_M08.lsmat"
                     },
                     {
-                        "k": "12",
-                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M05.lsmat"
+                        "k": "6",
+                        "v": "..\/AdditionalFiles\/vader\/Materials3\/Color_M05.lsmat"
                     },
                     {
-                        "k": "13",
-                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/Color_M09.lsmat"
+                        "k": "7",
+                        "v": "..\/AdditionalFiles\/vader\/Materials3\/Color_M09.lsmat"
                     },
                     {
-                        "k": "14",
-                        "v": "..\/AdditionalFiles\/vader 2\/Materials\/_4.lsmat"
+                        "k": "8",
+                        "v": "..\/AdditionalFiles\/vader\/Materials3\/_4.lsmat"
                     },
                     {
-                        "k": "15",
+                        "k": "9",
                         "v": "Vader Icon.png"
                     },
                     {
-                        "k": "17",
+                        "k": "10",
                         "v": "Credit Alpha.js"
                     },
                     {
-                        "k": "19",
+                        "k": "11",
                         "v": "vader breathing.mp3"
                     },
                     {
-                        "k": "21",
-                        "v": "Open Mouth.js"
-                    },
-                    {
-                        "k": "22",
+                        "k": "13",
                         "v": "If you only knew the power of the dark side.mp3"
                     },
                     {
-                        "k": "24",
+                        "k": "14",
                         "v": "Global.js"
                     },
                     {
-                        "k": "27",
+                        "k": "15",
                         "v": "I find your lack of faith disturbing.mp3"
+                    },
+                    {
+                        "k": "16",
+                        "v": "button.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Tap Button.js"
                     }
                 ],
                 "hashes": [
@@ -634,177 +663,148 @@
                     },
                     {
                         "k": "3",
-                        "v": "15a5f07e438d7db583b2e628584e4d7d"
-                    },
-                    {
-                        "k": "5",
-                        "v": "0380f7779f634919cfbc9318996b2b8c"
-                    },
-                    {
-                        "k": "6",
-                        "v": "2fe9b16cfd0dfaa505254271a1833143"
-                    },
-                    {
-                        "k": "7",
-                        "v": "80b1dc21520bf6d99dfdf8dd652083ad"
-                    },
-                    {
-                        "k": "8",
-                        "v": "c13ca102a395ce8344c5d0d28d8f2551"
-                    },
-                    {
-                        "k": "9",
                         "v": "470bdc046043f6a672b3b261f981878c"
                     },
                     {
-                        "k": "11",
-                        "v": "a368b5d9fc8c670bd30567639eb2ed20"
+                        "k": "5",
+                        "v": "f8f6a0e289fb5f14fedd4d8602da78b3"
                     },
                     {
-                        "k": "12",
-                        "v": "cf6ae5cfc421be4d2cc562d164a0969b"
+                        "k": "6",
+                        "v": "05309e5f33ce5089d0fef3f12cdc35d3"
                     },
                     {
-                        "k": "13",
-                        "v": "457a200bd4b427bb2967e3a564e4fd8f"
+                        "k": "7",
+                        "v": "a8c7b9fc927aa8ce4207c7a96cb84c21"
                     },
                     {
-                        "k": "14",
-                        "v": "6ec51fc2b2bf9e44b6bb93a7e9d6d1d7"
+                        "k": "8",
+                        "v": "a67be6c7335307ccae54f91c1c4f9115"
                     },
                     {
-                        "k": "15",
+                        "k": "9",
                         "v": "438994d1388bcaeef04a47284b6c6bce"
                     },
                     {
-                        "k": "16",
-                        "v": "c09bae2f213ee3f11e51f76faee00f9a"
-                    },
-                    {
-                        "k": "17",
+                        "k": "10",
                         "v": "db50ced2ab3f6080ee3a2da797902079"
                     },
                     {
-                        "k": "18",
-                        "v": "9a0417a8a65ac32ff4658fdb1c52958b"
-                    },
-                    {
-                        "k": "19",
+                        "k": "11",
                         "v": "b3855d293f216cbd24d3e02d5c63300f"
                     },
                     {
-                        "k": "20",
-                        "v": "b3855d293f216cbd24d3e02d5c63300f"
-                    },
-                    {
-                        "k": "21",
+                        "k": "12",
                         "v": "e2aed5651a7dae4d97c7fbdd96207aca"
                     },
                     {
-                        "k": "22",
+                        "k": "13",
                         "v": "5052e8ef47ffe9338aabbc3eb755ce9f"
                     },
                     {
-                        "k": "23",
-                        "v": "323c5e1726af667fb331f8da680ada3b"
+                        "k": "14",
+                        "v": "463437d50b1e54fa9ce4aae1ed8ea61f"
                     },
                     {
-                        "k": "24",
-                        "v": "97b1821081f27af9b7d754237ee44ccf"
-                    },
-                    {
-                        "k": "25",
-                        "v": "bc007fbe95173b1c277036daafbb97a3"
-                    },
-                    {
-                        "k": "26",
-                        "v": "963b816c351341f92532ede46fe6ba59"
-                    },
-                    {
-                        "k": "27",
+                        "k": "15",
                         "v": "cd5385367634c2e3c189ebf0dc60978e"
+                    },
+                    {
+                        "k": "16",
+                        "v": "15e9e087e756239c4b89cb0d032660db"
+                    },
+                    {
+                        "k": "17",
+                        "v": "eb97ebcfc02eb1d5832d7b3e401586b5"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-04T14:30:52",
+                        "lastModified": "2020-04-06T23:10:00",
                         "name": "Public",
-                        "hash": "824410faa4266b002b36c0248f5df416",
+                        "hash": "bb8fca91e7d62144d3968c989f2a224c",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T14:12:05",
+                                "lastModified": "2020-04-06T21:30:57",
                                 "name": "Global.js",
-                                "hash": "97b1821081f27af9b7d754237ee44ccf",
+                                "hash": "463437d50b1e54fa9ce4aae1ed8ea61f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T19:37:22",
+                                "lastModified": "2020-04-06T23:10:00",
+                                "name": "Tap Button.js",
+                                "hash": "eb97ebcfc02eb1d5832d7b3e401586b5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "If you only knew the power of the dark side.mp3",
                                 "hash": "5052e8ef47ffe9338aabbc3eb755ce9f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "Vader Icon.png",
                                 "hash": "438994d1388bcaeef04a47284b6c6bce",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T14:28:10",
-                                "name": "Open Mouth.js",
-                                "hash": "e2aed5651a7dae4d97c7fbdd96207aca",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2020-04-04T14:29:59",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "I find your lack of faith disturbing.mp3",
                                 "hash": "cd5385367634c2e3c189ebf0dc60978e",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "vader.gltf",
                                 "hash": "470bdc046043f6a672b3b261f981878c",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:15:44",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "vader breathing.mp3",
                                 "hash": "b3855d293f216cbd24d3e02d5c63300f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:26:05",
                                 "name": "Credit Alpha.js",
                                 "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-04T12:39:09",
+                                "lastModified": "2020-04-06T21:25:17",
+                                "name": "button.png",
+                                "hash": "15e9e087e756239c4b89cb0d032660db",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-06T21:26:07",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -888,7 +888,7 @@
                         "uid": "-1:-1",
                         "fileId": "31",
                         "originalId": "18446744073709551615",
-                        "publicId": "9",
+                        "publicId": "3",
                         "source": "\/Users\/ejwessel\/Downloads\/archive (9)\/vader.gltf",
                         "additional": {
                             "materialMapping": [
@@ -993,7 +993,7 @@
                                 "resources": ""
                             },
                             {
-                                "name": "Materials",
+                                "name": "Materials3",
                                 "type": "0",
                                 "subtype": "-1",
                                 "resourceId": "-1",
@@ -1001,7 +1001,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
-                                "publicId": "10",
+                                "publicId": "4",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -1014,7 +1014,7 @@
                                         "uid": "1586014853777825:7388",
                                         "fileId": "22",
                                         "originalId": "23",
-                                        "publicId": "11",
+                                        "publicId": "5",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -1027,7 +1027,7 @@
                                         "uid": "1586014853935527:7403",
                                         "fileId": "24",
                                         "originalId": "25",
-                                        "publicId": "12",
+                                        "publicId": "6",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -1040,7 +1040,7 @@
                                         "uid": "1586014854085278:7418",
                                         "fileId": "26",
                                         "originalId": "27",
-                                        "publicId": "13",
+                                        "publicId": "7",
                                         "source": "",
                                         "additional": ""
                                     },
@@ -1053,7 +1053,7 @@
                                         "uid": "1586014854257892:7433",
                                         "fileId": "28",
                                         "originalId": "29",
-                                        "publicId": "14",
+                                        "publicId": "8",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -1083,7 +1083,7 @@
                         "uid": "1586015682718047:20175",
                         "fileId": "33",
                         "originalId": "34",
-                        "publicId": "15",
+                        "publicId": "9",
                         "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-04-04 at 11.53.53 AM.png",
                         "additional": ""
                     },
@@ -1096,7 +1096,7 @@
                         "uid": "1586015815289452:22149",
                         "fileId": "37",
                         "originalId": "18446744073709551615",
-                        "publicId": "17",
+                        "publicId": "10",
                         "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     },
@@ -1109,21 +1109,8 @@
                         "uid": "1586016968390977:41892",
                         "fileId": "39",
                         "originalId": "18446744073709551615",
-                        "publicId": "19",
+                        "publicId": "11",
                         "source": "\/Users\/ejwessel\/Downloads\/breathing.mp3",
-                        "additional": ""
-                    },
-                    {
-                        "name": "Open Mouth",
-                        "type": "4",
-                        "subtype": "0",
-                        "resourceId": "33",
-                        "dependency": "0",
-                        "uid": "1586018686563936:52208",
-                        "fileId": "40",
-                        "originalId": "18446744073709551615",
-                        "publicId": "21",
-                        "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     },
                     {
@@ -1135,7 +1122,7 @@
                         "uid": "1586018751669993:53497",
                         "fileId": "41",
                         "originalId": "18446744073709551615",
-                        "publicId": "22",
+                        "publicId": "13",
                         "source": "\/Users\/ejwessel\/Downloads\/If you only knew the power of the dark side.mp3",
                         "additional": ""
                     },
@@ -1148,7 +1135,7 @@
                         "uid": "1586022638301740:121088",
                         "fileId": "45",
                         "originalId": "18446744073709551615",
-                        "publicId": "24",
+                        "publicId": "14",
                         "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     },
@@ -1161,8 +1148,34 @@
                         "uid": "1586025025030666:148503",
                         "fileId": "48",
                         "originalId": "18446744073709551615",
-                        "publicId": "27",
+                        "publicId": "15",
                         "source": "\/Users\/ejwessel\/Downloads\/Darth Vader _I find your lack of faith disturbing_ - HD1080p - Star Wars Episode 1m47s - 1m49.7s (YnNSnJbjdws) 961 (online-audio-converter.com).mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "button",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "40",
+                        "dependency": "0",
+                        "uid": "1586222785702489:4833",
+                        "fileId": "49",
+                        "originalId": "50",
+                        "publicId": "16",
+                        "source": "\/Users\/ejwessel\/Desktop\/button.png",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Tap Button",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "41",
+                        "dependency": "0",
+                        "uid": "1586222890018496:12143",
+                        "fileId": "51",
+                        "originalId": "18446744073709551615",
+                        "publicId": "17",
+                        "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-TmiNEE\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
                 ]
