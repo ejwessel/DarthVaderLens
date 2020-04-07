@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586232335237",
+    "lastChanged": "1586233784809",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -34,6 +34,12 @@
                     ],
                     [
                         "Global"
+                    ],
+                    [
+                        "I am altering the deal"
+                    ],
+                    [
+                        "I am your father"
                     ],
                     [
                         "I find your lack of faith disturbing"
@@ -341,6 +347,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1586233632627414:5638",
+                    "name": "Files\/File53.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1586233633118881:5909",
+                    "name": "Files\/File54.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -427,6 +449,20 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1586233671334500:9245",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -456,7 +492,9 @@
                 "18": "1586020485886770:91492",
                 "19": "1586021197372928:109320",
                 "20": "1586222795892275:5927",
-                "21": "1586223316230160:24414"
+                "21": "1586223316230160:24414",
+                "22": "1586233642096220:6929",
+                "23": "1586233671141603:8985"
             }
         },
         "LayerComponent": {
@@ -590,6 +628,14 @@
                 {
                     "k": "52",
                     "v": "Files\/File52.js"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.mp3"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.mp3"
                 }
             ]
         },
@@ -669,6 +715,14 @@
                     {
                         "k": "18",
                         "v": "Instructions Alpha.js"
+                    },
+                    {
+                        "k": "19",
+                        "v": "I am altering the deal.mp3"
+                    },
+                    {
+                        "k": "20",
+                        "v": "I am your father.mp3"
                     }
                 ],
                 "hashes": [
@@ -739,18 +793,26 @@
                     {
                         "k": "18",
                         "v": "0df8d5a736980f7410460ff042d76102"
+                    },
+                    {
+                        "k": "19",
+                        "v": "3b556ce0b0c1c1ec8d14521d97d0f869"
+                    },
+                    {
+                        "k": "20",
+                        "v": "5e944eb91522170f1108a25c2435bc74"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-07T00:04:03",
+                        "lastModified": "2020-04-07T00:27:13",
                         "name": "Public",
-                        "hash": "c2abcb4011e4c34943ed8afeb1ef91f9",
+                        "hash": "6f455f14c18f5f7961a618c6f3121559",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T00:04:03",
+                                "lastModified": "2020-04-07T00:23:53",
                                 "name": "Instructions Alpha.js",
                                 "hash": "0df8d5a736980f7410460ff042d76102",
                                 "children": ""
@@ -771,16 +833,30 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-06T21:30:57",
+                                "lastModified": "2020-04-07T07:26:20",
+                                "name": "I am your father.mp3",
+                                "hash": "5e944eb91522170f1108a25c2435bc74",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-07T00:23:53",
                                 "name": "Global.js",
                                 "hash": "463437d50b1e54fa9ce4aae1ed8ea61f",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-06T23:10:00",
+                                "lastModified": "2020-04-07T00:23:53",
                                 "name": "Tap Button.js",
                                 "hash": "eb97ebcfc02eb1d5832d7b3e401586b5",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-07T07:26:20",
+                                "name": "I am altering the deal.mp3",
+                                "hash": "3b556ce0b0c1c1ec8d14521d97d0f869",
                                 "children": ""
                             },
                             {
@@ -827,7 +903,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-06T21:25:17",
+                                "lastModified": "2020-04-07T00:23:53",
                                 "name": "button.png",
                                 "hash": "15e9e087e756239c4b89cb0d032660db",
                                 "children": ""
@@ -1219,6 +1295,32 @@
                         "originalId": "18446744073709551615",
                         "publicId": "18",
                         "source": "\/var\/folders\/s_\/tvtszf7j2qs32p9nc96p655m0000gn\/T\/Lens Studio-izlkjo\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "I am altering the deal",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "43",
+                        "dependency": "0",
+                        "uid": "1586233632627414:5638",
+                        "fileId": "53",
+                        "originalId": "18446744073709551615",
+                        "publicId": "19",
+                        "source": "\/Users\/ejwessel\/Downloads\/files (online-audio-converter.com)\/I am altering the deal.mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "I am your father",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "44",
+                        "dependency": "0",
+                        "uid": "1586233633118881:5909",
+                        "fileId": "54",
+                        "originalId": "18446744073709551615",
+                        "publicId": "20",
+                        "source": "\/Users\/ejwessel\/Downloads\/files (online-audio-converter.com)\/I am your father.mp3",
                         "additional": ""
                     }
                 ]
