@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586233784809",
+    "lastChanged": "1586234146667",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -52,6 +52,9 @@
                     ],
                     [
                         "Tap Button"
+                    ],
+                    [
+                        "There is no escape"
                     ],
                     [
                         "Vader Icon"
@@ -363,6 +366,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1586234113749746:6197",
+                    "name": "Files\/File55.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -494,7 +505,8 @@
                 "20": "1586222795892275:5927",
                 "21": "1586223316230160:24414",
                 "22": "1586233642096220:6929",
-                "23": "1586233671141603:8985"
+                "23": "1586233671141603:8985",
+                "24": "1586234128215890:6908"
             }
         },
         "LayerComponent": {
@@ -636,6 +648,10 @@
                 {
                     "k": "54",
                     "v": "Files\/File54.mp3"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.mp3"
                 }
             ]
         },
@@ -723,6 +739,10 @@
                     {
                         "k": "20",
                         "v": "I am your father.mp3"
+                    },
+                    {
+                        "k": "21",
+                        "v": "There is no escape.mp3"
                     }
                 ],
                 "hashes": [
@@ -801,14 +821,18 @@
                     {
                         "k": "20",
                         "v": "5e944eb91522170f1108a25c2435bc74"
+                    },
+                    {
+                        "k": "21",
+                        "v": "3b556ce0b0c1c1ec8d14521d97d0f869"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-07T00:27:13",
+                        "lastModified": "2020-04-07T00:35:13",
                         "name": "Public",
-                        "hash": "6f455f14c18f5f7961a618c6f3121559",
+                        "hash": "f840c0b69a1bd62bc2285c231d398f8d",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -843,6 +867,13 @@
                                 "lastModified": "2020-04-07T00:23:53",
                                 "name": "Global.js",
                                 "hash": "463437d50b1e54fa9ce4aae1ed8ea61f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-07T00:34:07",
+                                "name": "There is no escape.mp3",
+                                "hash": "3b556ce0b0c1c1ec8d14521d97d0f869",
                                 "children": ""
                             },
                             {
@@ -1322,6 +1353,19 @@
                         "publicId": "20",
                         "source": "\/Users\/ejwessel\/Downloads\/files (online-audio-converter.com)\/I am your father.mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "There is no escape",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "45",
+                        "dependency": "0",
+                        "uid": "1586234113749746:6197",
+                        "fileId": "55",
+                        "originalId": "18446744073709551615",
+                        "publicId": "21",
+                        "source": "\/Users\/ejwessel\/Downloads\/There is no escape.mp3",
+                        "additional": ""
                     }
                 ]
             }
@@ -1329,7 +1373,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1586020485886770:91492"
+                    "1586234128215890:6908"
                 ]
             }
         },
