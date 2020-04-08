@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586307642850",
+    "lastChanged": "1586309074488",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -29,6 +29,9 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
+                    [
+                        "Be careful not to choke on your aspirations"
+                    ],
                     [
                         "Credit Alpha"
                     ],
@@ -374,6 +377,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1586309043898819:66135",
+                    "name": "Files\/File59.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -521,7 +532,8 @@
                 "22": "1586233642096220:6929",
                 "23": "1586233671141603:8985",
                 "24": "1586234128215890:6908",
-                "25": "1586307454790836:8844"
+                "25": "1586307454790836:8844",
+                "26": "1586308614151207:47000"
             }
         },
         "LayerComponent": {
@@ -667,6 +679,10 @@
                 {
                     "k": "57",
                     "v": "Files\/File57.mp3"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.mp3"
                 }
             ]
         },
@@ -758,6 +774,10 @@
                     {
                         "k": "22",
                         "v": "There is no escape.mp3"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Be careful not to choke on your aspirations.mp3"
                     }
                 ],
                 "hashes": [
@@ -844,14 +864,22 @@
                     {
                         "k": "22",
                         "v": "75c42c27582f0a1408f66980f809c827"
+                    },
+                    {
+                        "k": "23",
+                        "v": "e5aa0482df32ae73eef93f0089cda063"
+                    },
+                    {
+                        "k": "24",
+                        "v": "47c5a04cd03434e0feb031fe098060c5"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-07T20:57:17",
+                        "lastModified": "2020-04-07T21:24:03",
                         "name": "Public",
-                        "hash": "7d1d8c6d13b68d98287485a320cc4f86",
+                        "hash": "8ed6a43ca5ecc0e8276f62104114260c",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -865,6 +893,13 @@
                                 "lastModified": "2020-04-06T21:26:05",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-07T21:23:22",
+                                "name": "Be careful not to choke on your aspirations.mp3",
+                                "hash": "47c5a04cd03434e0feb031fe098060c5",
                                 "children": ""
                             },
                             {
@@ -1385,6 +1420,19 @@
                         "publicId": "22",
                         "source": "\/Users\/ejwessel\/Downloads\/There is no escape.mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "Be careful not to choke on your aspirations",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "48",
+                        "dependency": "0",
+                        "uid": "1586309043898819:66135",
+                        "fileId": "59",
+                        "originalId": "18446744073709551615",
+                        "publicId": "24",
+                        "source": "\/Users\/ejwessel\/Downloads\/Be careful not to choke on your aspirations.mp3",
+                        "additional": ""
                     }
                 ]
             }
@@ -1392,7 +1440,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1586020485886770:91492"
+                    "1586308614151207:47000"
                 ]
             }
         },
