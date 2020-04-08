@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586234146667",
+    "lastChanged": "1586307642850",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -368,9 +368,9 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "45",
-                    "uid": "1586234113749746:6197",
-                    "name": "Files\/File55.mp3",
+                    "resId": "46",
+                    "uid": "1586307437602368:6049",
+                    "name": "Files\/File57.mp3",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -450,7 +450,7 @@
                         {
                             "k": "1586223316362377:24674",
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
                                     "fixWidth": "false",
                                     "fixHeight": "false",
@@ -464,7 +464,21 @@
                         {
                             "k": "1586233671334500:9245",
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1586307454884009:9104",
+                            "v": {
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
                                     "fixWidth": "false",
                                     "fixHeight": "false",
@@ -506,7 +520,8 @@
                 "21": "1586223316230160:24414",
                 "22": "1586233642096220:6929",
                 "23": "1586233671141603:8985",
-                "24": "1586234128215890:6908"
+                "24": "1586234128215890:6908",
+                "25": "1586307454790836:8844"
             }
         },
         "LayerComponent": {
@@ -650,8 +665,8 @@
                     "v": "Files\/File54.mp3"
                 },
                 {
-                    "k": "55",
-                    "v": "Files\/File55.mp3"
+                    "k": "57",
+                    "v": "Files\/File57.mp3"
                 }
             ]
         },
@@ -741,7 +756,7 @@
                         "v": "I am your father.mp3"
                     },
                     {
-                        "k": "21",
+                        "k": "22",
                         "v": "There is no escape.mp3"
                     }
                 ],
@@ -825,14 +840,18 @@
                     {
                         "k": "21",
                         "v": "3b556ce0b0c1c1ec8d14521d97d0f869"
+                    },
+                    {
+                        "k": "22",
+                        "v": "75c42c27582f0a1408f66980f809c827"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-07T00:35:13",
+                        "lastModified": "2020-04-07T20:57:17",
                         "name": "Public",
-                        "hash": "f840c0b69a1bd62bc2285c231d398f8d",
+                        "hash": "7d1d8c6d13b68d98287485a320cc4f86",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -871,9 +890,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T00:34:07",
+                                "lastModified": "2020-04-07T20:56:32",
                                 "name": "There is no escape.mp3",
-                                "hash": "3b556ce0b0c1c1ec8d14521d97d0f869",
+                                "hash": "75c42c27582f0a1408f66980f809c827",
                                 "children": ""
                             },
                             {
@@ -1358,12 +1377,12 @@
                         "name": "There is no escape",
                         "type": "5",
                         "subtype": "0",
-                        "resourceId": "45",
+                        "resourceId": "46",
                         "dependency": "0",
-                        "uid": "1586234113749746:6197",
-                        "fileId": "55",
+                        "uid": "1586307437602368:6049",
+                        "fileId": "57",
                         "originalId": "18446744073709551615",
-                        "publicId": "21",
+                        "publicId": "22",
                         "source": "\/Users\/ejwessel\/Downloads\/There is no escape.mp3",
                         "additional": ""
                     }
@@ -1373,7 +1392,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1586234128215890:6908"
+                    "1586020485886770:91492"
                 ]
             }
         },
