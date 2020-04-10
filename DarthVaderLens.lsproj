@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586309074488",
+    "lastChanged": "1586486602478",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -39,6 +39,9 @@
                         "Global"
                     ],
                     [
+                        "Helmet Material"
+                    ],
+                    [
                         "I am altering the deal"
                     ],
                     [
@@ -54,7 +57,17 @@
                         "Instructions Alpha"
                     ],
                     [
+                        "Lens Material"
+                    ],
+                    [
                         "Tap Button"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "iridescence_combined"
                     ],
                     [
                         "There is no escape"
@@ -115,15 +128,9 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1517446348227994:84813",
                     "1586014213617828:2195",
                     "1586014213618990:2213",
-                    "1586014854845445:7636",
-                    "1586014854846139:7654",
-                    "1586014854846532:7656",
-                    "1586014854846927:7658",
-                    "1586014854847382:7660",
-                    "1586014854847773:7662"
+                    "1586015857474466:22919"
                 ]
             ]
         },
@@ -171,8 +178,8 @@
             ]
         },
         "UiComponent": {
-            "active_graph_material": "-1:-1",
-            "active_graph_pass": "-1"
+            "active_graph_material": "1586485638045986:6124",
+            "active_graph_pass": "0"
         }
     },
     "model": {
@@ -382,6 +389,30 @@
                     "resId": "48",
                     "uid": "1586309043898819:66135",
                     "name": "Files\/File59.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1586485638045986:6124",
+                    "name": "Files\/File60",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1586485638305772:6174",
+                    "name": "Files\/File62.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1586486205983665:12304",
+                    "name": "Files\/File64",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -683,6 +714,30 @@
                 {
                     "k": "59",
                     "v": "Files\/File59.mp3"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.lsmat"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.lsmat"
                 }
             ]
         },
@@ -778,6 +833,22 @@
                     {
                         "k": "24",
                         "v": "Be careful not to choke on your aspirations.mp3"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "26",
+                        "v": "Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Helmet Material.lsmat"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Lens Material.lsmat"
                     }
                 ],
                 "hashes": [
@@ -872,14 +943,26 @@
                     {
                         "k": "24",
                         "v": "47c5a04cd03434e0feb031fe098060c5"
+                    },
+                    {
+                        "k": "26",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "27",
+                        "v": "cd72a61378478ddb3eed02ec3fc2da2c"
+                    },
+                    {
+                        "k": "28",
+                        "v": "93abb56af4e3b7cd21dfbf4ec565fc64"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-07T21:24:03",
+                        "lastModified": "2020-04-09T22:43:05",
                         "name": "Public",
-                        "hash": "8ed6a43ca5ecc0e8276f62104114260c",
+                        "hash": "69fd657f5b070f40eb7eff8dbfe34239",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -887,6 +970,28 @@
                                 "name": "Instructions Alpha.js",
                                 "hash": "0df8d5a736980f7410460ff042d76102",
                                 "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-09T22:27:18",
+                                "name": "Textures",
+                                "hash": "ed69ed08610aa420068b1c5df7d5c1ec",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T22:27:18",
+                                        "name": "iridescence_combined.png",
+                                        "hash": "464f444dfcba88908c256dddc14e2779",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-09T22:27:18",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
                             },
                             {
                                 "isFolder": "false",
@@ -897,7 +1002,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T21:23:22",
+                                "lastModified": "2020-04-09T22:26:04",
                                 "name": "Be careful not to choke on your aspirations.mp3",
                                 "hash": "47c5a04cd03434e0feb031fe098060c5",
                                 "children": ""
@@ -911,7 +1016,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T07:26:20",
+                                "lastModified": "2020-04-09T22:26:04",
                                 "name": "I am your father.mp3",
                                 "hash": "5e944eb91522170f1108a25c2435bc74",
                                 "children": ""
@@ -925,7 +1030,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T20:56:32",
+                                "lastModified": "2020-04-09T22:26:04",
                                 "name": "There is no escape.mp3",
                                 "hash": "75c42c27582f0a1408f66980f809c827",
                                 "children": ""
@@ -939,7 +1044,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-07T07:26:20",
+                                "lastModified": "2020-04-09T22:26:04",
                                 "name": "I am altering the deal.mp3",
                                 "hash": "3b556ce0b0c1c1ec8d14521d97d0f869",
                                 "children": ""
@@ -960,9 +1065,23 @@
                             },
                             {
                                 "isFolder": "false",
+                                "lastModified": "2020-04-09T22:43:05",
+                                "name": "Lens Material.lsmat",
+                                "hash": "95f65f08be7928e9bb4204978f2f0bc1",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
                                 "lastModified": "2020-04-06T21:26:05",
                                 "name": "I find your lack of faith disturbing.mp3",
                                 "hash": "cd5385367634c2e3c189ebf0dc60978e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-09T22:43:05",
+                                "name": "Helmet Material.lsmat",
+                                "hash": "4fb46b71c1693d53e8d8b09b6b03a4e4",
                                 "children": ""
                             },
                             {
@@ -1433,14 +1552,73 @@
                         "publicId": "24",
                         "source": "\/Users\/ejwessel\/Downloads\/Be careful not to choke on your aspirations.mp3",
                         "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "25",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "iridescence_combined",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "50",
+                                "dependency": "0",
+                                "uid": "1586485638305772:6174",
+                                "fileId": "62",
+                                "originalId": "63",
+                                "publicId": "26",
+                                "source": "\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QRNBnU\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Helmet Material",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "49",
+                        "dependency": "0",
+                        "uid": "1586485638045986:6124",
+                        "fileId": "60",
+                        "originalId": "61",
+                        "publicId": "27",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Lens Material",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "51",
+                        "dependency": "0",
+                        "uid": "1586486205983665:12304",
+                        "fileId": "64",
+                        "originalId": "65",
+                        "publicId": "28",
+                        "source": "",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1586308614151207:47000"
+                "resources": [
+                    {
+                        "uid": "1586486205983665:12304",
+                        "path_list": [
+                            "Lens Material"
+                        ]
+                    }
                 ]
             }
         },
