@@ -3,7 +3,7 @@
     "document_id": "hV81gb2stKEaXMCjilfX",
     "original_document_id": "hV81gb2stKEaXMCjilfX",
     "version": "23",
-    "lastChanged": "1586486602478",
+    "lastChanged": "1586486717405",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -950,19 +950,19 @@
                     },
                     {
                         "k": "27",
-                        "v": "cd72a61378478ddb3eed02ec3fc2da2c"
+                        "v": "205c6a0ca6d9ececb40e53c501768a08"
                     },
                     {
                         "k": "28",
-                        "v": "93abb56af4e3b7cd21dfbf4ec565fc64"
+                        "v": "f87fc57f6430832946dd6a0ac164fe78"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-04-09T22:43:05",
+                        "lastModified": "2020-04-09T22:45:11",
                         "name": "Public",
-                        "hash": "69fd657f5b070f40eb7eff8dbfe34239",
+                        "hash": "4bf80d2734b52dc5c12b2d53fd8eaeb9",
                         "children": [
                             {
                                 "isFolder": "false",
@@ -1065,9 +1065,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T22:43:05",
+                                "lastModified": "2020-04-09T22:45:10",
                                 "name": "Lens Material.lsmat",
-                                "hash": "95f65f08be7928e9bb4204978f2f0bc1",
+                                "hash": "e9c7999ee6234f4c31f0055c2ceaacb1",
                                 "children": ""
                             },
                             {
@@ -1079,9 +1079,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-04-09T22:43:05",
+                                "lastModified": "2020-04-09T22:45:10",
                                 "name": "Helmet Material.lsmat",
-                                "hash": "4fb46b71c1693d53e8d8b09b6b03a4e4",
+                                "hash": "9839f5a78727a9f11e49ab8df21d1286",
                                 "children": ""
                             },
                             {
@@ -1612,13 +1612,8 @@
         },
         "InspectorController": {
             "selection": {
-                "resources": [
-                    {
-                        "uid": "1586486205983665:12304",
-                        "path_list": [
-                            "Lens Material"
-                        ]
-                    }
+                "objects": [
+                    "1586014854848143:7664"
                 ]
             }
         },
